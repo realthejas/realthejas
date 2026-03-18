@@ -20,13 +20,13 @@
 ---
 ### 🤝 Connect With Me
 <p align="center" style="margin: 10px 0;">
-  <a href="https://www.linkedin.com/in/thejas-m-s-10a2901a7/" target="blank">
+  <a href="https://www.linkedin.com/in/thejasms/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/thejasms03/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://discordapp.com/users/anonymous_user_003"  target="blank">
+  <a href="https://discordapp.com/users/realthejas"  target="blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
