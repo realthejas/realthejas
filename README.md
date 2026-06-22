@@ -112,7 +112,7 @@ const thejas = {
 
 ---
 
-### ☁️ [MOE — Marketplace Aggregator](https://github.com/realthejas)
+### ☁️ [MOE — Marketplace Aggregator](https://github.com/realthejas/moe-app)
 > Serverless marketplace aggregation platform on AWS
 
 - Architected with **AWS CDK + SQS + Lambda** — serverless-first design brings infra cost to near-zero (~$1.50/month at 1k listings, 10k events)
@@ -123,7 +123,7 @@ const thejas = {
 
 ---
 
-### 🤖 [Gitflow AI](https://gitflow-ai.vercel.app)
+### 🤖 [Gitflow AI](https://github.com/realthejas/gitflow-ai)
 > RAG-based developer knowledge engine for GitHub repositories
 
 - Ingests codebases and generates context-aware documentation using **LangChain + Gemini**
@@ -132,7 +132,7 @@ const thejas = {
 
 ---
 
-### 📝 [Doc Sprint](https://tms-doc-sprint.vercel.app)
+### 📝 [Doc Sprint](https://github.com/realthejas/DocSprint)
 > Real-time collaborative document editor
 
 - Sub-100ms sync using **Liveblocks** CRDT-backed presence and storage
