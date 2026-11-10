@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://realthejas.xyz"><img src="cards/tile-portfolio.svg" width="32.5%" alt="Portfolio: realthejas.xyz"></a>
+  <a href="https://thejas.wtf"><img src="cards/tile-portfolio.svg" width="32.5%" alt="Portfolio: realthejas.xyz"></a>
   <a href="https://www.linkedin.com/in/thejasms/"><img src="cards/tile-linkedin.svg" width="32.5%" alt="LinkedIn: in/thejasms"></a>
   <a href="mailto:thejasabhi705@gmail.com"><img src="cards/tile-email.svg" width="32.5%" alt="Email: say hello"></a>
 </p>
